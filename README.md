@@ -44,5 +44,5 @@ applications developed as part of my learning and hands-on experience.
 ### Contact
 - Email: sahujii8277@gmail.com
 - GitHub: https://github.com/khushi-66
-- LinkedIn: https://linkedin.com/in/khushi-sahu
+- LinkedIn: https://linkedin.com/in/khushi-sahu989718b
 

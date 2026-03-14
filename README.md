@@ -67,7 +67,7 @@ https://github.com/khushi-66/BootStrap-ui-1
 
 ### JavaScript Todo Application
 
-Task management application that allows users to create, manage, and delete tasks dynamically with Local Storage
+Task management application that allows users to create, manage, and delete tasks dynamically with  the Local Storage
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -108,7 +108,7 @@ https://github.com/khushi-66/react-password-generator
 ---
 
 ### React Todo Application
-Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit, and delete tasks dynamically and stored in browser's Local Storage
+Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit, and delete tasks dynamically and stored in the browser's Local Storage
 
 **Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
 

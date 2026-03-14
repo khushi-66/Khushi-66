@@ -96,7 +96,7 @@ Tech Stack: React JS, JavaScript, HTML, CSS
 https://khushi-66.github.io/react-todo-app/
 
 **Repository:**
-https://github.com/khushi-66/react-react-todo-app
+https://github.com/khushi-66/-react-todo-app
 
 ---
 

@@ -97,7 +97,7 @@ https://github.com/khushi-66/react-mega-blog-app
 
 Client-side web application that generates secure passwords based on user-defined parameters.
 
-**Tech Stack:** HTML, CSS, JavaScript,React_JS,tailwind css
+**Tech Stack:** HTML, CSS, JavaScript,React_JS,TailwindCSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-password-generator/
@@ -110,7 +110,7 @@ https://github.com/khushi-66/react-password-generator
 ### React Todo Application
 Developed a task management application using React with component-based architecture. The application allows users to create, manage,edit , and delete tasks dynamically and stored in browser's localstorage
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS  ,taiwind css
+**Tech Stack:** React JS, JavaScript, HTML, CSS  ,TaiwindCSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-todo-localstorage/

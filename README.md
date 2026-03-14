@@ -92,7 +92,7 @@ https://github.com/khushi-66/springboot-learning
 
 ### JavaScript Todo Application
 
-Task management application that allows users to create, manage, and delete tasks dynamically using Local Storage
+Task management application that allows users to create, manage, and delete tasks dynamically using the browser's Local Storage
 
 **Tech Stack:** HTML, CSS, JavaScript
 

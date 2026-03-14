@@ -24,7 +24,7 @@ high-performance web applications while continuously improving skills in modern 
   focused on user well-being
 
 
-  ## Featured Projects
+ ## Featured Projects
 
 ### Mega Blog Application (React)
 

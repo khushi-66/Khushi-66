@@ -82,10 +82,10 @@ Developed a modern blog application using React with component-based architectur
 
 **Tech Stack:** React JS, JavaScript, HTML, CSS ,tailwind css
 **Live Demo:**
-https://khushi-66.github.io/react-mega-blog/
+https://khushi-66.github.io/react-mega-blog-app/
 
 **Repository:**
-https://github.com/khushi-66/react-mega-blog
+https://github.com/khushi-66/react-mega-blog-app
 
 
 ### Password Generator

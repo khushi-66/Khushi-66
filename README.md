@@ -93,10 +93,10 @@ Developed a task management application using React with component-based archite
 
 Tech Stack: React JS, JavaScript, HTML, CSS  
 **Live Demo:**
-https://khushi-66.github.io/react-todo-app/
+https://khushi-66.github.io/react-todo-localstorage/
 
 **Repository:**
-https://github.com/khushi-66/-react-todo-app
+https://github.com/khushi-66/-react-todo-localstorage
 
 ---
 

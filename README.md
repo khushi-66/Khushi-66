@@ -41,7 +41,7 @@ https://github.com/khushi-66/react-mega-blog-app
 ---
 
 ### React Todo Application
-Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit, and delete tasks dynamically and stores them in the browser's Local Storage
+Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit, and delete tasks dynamically and stores tasks in the browser's Local Storage
 
 **Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
 

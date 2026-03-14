@@ -75,11 +75,24 @@ https://github.com/khushi-66/javascript-todo-localstorage
 
 ---
 
+
+### Mega Blog Application (React)
+
+Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
+
+**Tech Stack:** React JS, JavaScript, HTML, CSS ,tailwind css
+**Live Demo:**
+https://khushi-66.github.io/react-mega-blog/
+
+**Repository:**
+https://github.com/khushi-66/react-mega-blog
+
+
 ### Password Generator
 
 Client-side web application that generates secure passwords based on user-defined parameters.
 
-**Tech Stack:** HTML, CSS, JavaScript,React_JS
+**Tech Stack:** HTML, CSS, JavaScript,React_JS,tailwind css
 **Live Demo:**
 https://khushi-66.github.io/react-password-generator/
 
@@ -91,7 +104,7 @@ https://github.com/khushi-66/react-password-generator
 ### React Todo Application
 Developed a task management application using React with component-based architecture. The application allows users to create, manage,edit , and delete tasks dynamically and stored in browser's localstorage
 
-Tech Stack: React JS, JavaScript, HTML, CSS  
+**Tech Stack:** React JS, JavaScript, HTML, CSS  ,taiwind css
 **Live Demo:**
 https://khushi-66.github.io/react-todo-localstorage/
 
@@ -104,7 +117,7 @@ https://github.com/khushi-66/react-todo-localstorage
 
 Interactive JavaScript application that converts currencies using real-time exchange rates.
 
-**Tech Stack:** HTML, CSS, JavaScript,React_JS
+**Tech Stack:** HTML, CSS, JavaScript,React_JS,tailwind css
 **Live Demo:**
 https://khushi-66.github.io/react-currency-converter/
 

@@ -84,7 +84,7 @@ https://github.com/khushi-66/javascript-todo-localstorage
 
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS , Tailwind CSS
+**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-mega-blog-app/
@@ -110,7 +110,7 @@ https://github.com/khushi-66/react-password-generator
 ### React Todo Application
 Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit , and delete tasks dynamically and stored in browser's localstorage
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS, Taiwind CSS
+**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-todo-localstorage/

@@ -1,7 +1,8 @@
-## Hi, I'm Khushi Sahu
+# Khushi | Java Backend Developer
 
-Java Full Stack Developer with a strong foundation in backend development and hands-on experience
-in building web applications using Spring Boot, JSP, Servlets, and MySQL.
+Java Backend Developer focused on building scalable web applications using **Spring Boot** and modern web technologies.
+I enjoy developing RESTful APIs, exploring microservices architecture, and creating responsive frontend interfaces.
+
 
 ### Career Focus
 Aspiring Java Web Developer seeking opportunities to contribute to secure, scalable, and
@@ -21,6 +22,74 @@ high-performance web applications while continuously improving skills in modern 
 - Worked on backend logic, form handling, and MVC-based application flow
 - Participated in Internal Hackathon 2025, contributing to a Digital Mental Health Solution
   focused on user well-being
+  ## Featured Projects
+
+### Spring Boot Learning Projects
+
+Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs, configuration management, and microservice fundamentals.
+
+**Tech Stack:** Java, Spring Boot, Maven
+**Repository:**
+https://github.com/khushi-66/SpringBoot
+
+---
+
+### Restaurant Website
+
+Responsive restaurant landing page built using modern HTML and CSS layout techniques.
+
+**Tech Stack:** HTML, CSS
+**Live Demo:**
+https://khushi-66.github.io/restaurant-website-html-css/
+
+**Repository:**
+https://github.com/khushi-66/restaurant-website-html-css
+
+---
+
+### Bootstrap UI Components
+
+Collection of reusable and responsive UI components developed using Bootstrap.
+
+**Tech Stack:** HTML, CSS, Bootstrap
+**Live Demo:**
+https://khushi-66.github.io/BootStrap-ui-1/
+
+**Repository:**
+https://github.com/khushi-66/BootStrap-ui-1
+
+---
+
+### JavaScript Todo Application
+
+Task management application that allows users to create, manage, and delete tasks dynamically.
+
+**Tech Stack:** HTML, CSS, JavaScript
+**Repository:**
+https://github.com/khushi-66/js-todoapp
+
+---
+
+### Password Generator
+
+Client-side web application that generates secure passwords based on user-defined parameters.
+
+**Tech Stack:** HTML, CSS, JavaScript
+**Repository:**
+https://github.com/khushi-66/password-generator
+
+---
+
+### Currency Converter
+
+Interactive JavaScript application that converts currencies using real-time exchange rates.
+
+**Tech Stack:** HTML, CSS, JavaScript
+**Repository:**
+https://github.com/khushi-66/currencyconverter
+
+---
+
 
 ### Hackathons
 - Internal Hackathon 2025 (College Level)

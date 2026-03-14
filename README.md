@@ -31,6 +31,7 @@ high-performance web applications while continuously improving skills in modern 
 Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs, configuration management, and microservice fundamentals.
 
 **Tech Stack:** Java, Spring Boot, Maven,HTML,CSS,Javascript
+
 **Repository:**
 https://github.com/khushi-66/springboot-learning
 
@@ -41,6 +42,7 @@ https://github.com/khushi-66/springboot-learning
 Responsive restaurant landing page built using modern HTML and CSS layout techniques.
 
 **Tech Stack:** HTML, CSS
+
 **Live Demo:**
 https://khushi-66.github.io/restaurant-website-html-css/
 
@@ -68,6 +70,7 @@ https://github.com/khushi-66/BootStrap-ui-1
 Task management application that allows users to create, manage, and delete tasks dynamically with Localstorage
 
 **Tech Stack:** HTML, CSS, JavaScript
+
 **Live Demo:**
 https://khushi-66.github.io/javascript-todo-localstorage/
 
@@ -82,6 +85,7 @@ https://github.com/khushi-66/javascript-todo-localstorage
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 
 **Tech Stack:** React JS, JavaScript, HTML, CSS ,TailwindCSS
+
 **Live Demo:**
 https://khushi-66.github.io/react-mega-blog-app/
 
@@ -94,6 +98,7 @@ https://github.com/khushi-66/react-mega-blog-app
 Client-side web application that generates secure passwords based on user-defined parameters.
 
 **Tech Stack:** HTML, CSS, JavaScript,React_JS,tailwind css
+
 **Live Demo:**
 https://khushi-66.github.io/react-password-generator/
 
@@ -106,6 +111,7 @@ https://github.com/khushi-66/react-password-generator
 Developed a task management application using React with component-based architecture. The application allows users to create, manage,edit , and delete tasks dynamically and stored in browser's localstorage
 
 **Tech Stack:** React JS, JavaScript, HTML, CSS  ,taiwind css
+
 **Live Demo:**
 https://khushi-66.github.io/react-todo-localstorage/
 
@@ -119,6 +125,7 @@ https://github.com/khushi-66/react-todo-localstorage
 Interactive JavaScript application that converts currencies using real-time exchange rates.
 
 **Tech Stack:** HTML, CSS, JavaScript,React_JS,TailwindCSS
+
 **Live Demo:**
 https://khushi-66.github.io/react-currency-converter/
 

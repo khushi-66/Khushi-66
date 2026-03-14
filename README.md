@@ -13,7 +13,7 @@ high-performance web applications while continuously improving skills in modern 
 - Backend Technologies: Spring Boot, JSP, Servlets, MVC Architecture, REST Basics
 - Frontend Technologies: HTML5, CSS3, Bootstrap, JavaScript, React JS
 - Database: MySQL
-- Tools & Platforms: Git, GitHub, Eclipse, VS Code, Postman,Swagger
+- Tools & Platforms: Git, GitHub, Eclipse, VS Code, Postman, Swagger
 - Concepts: CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
 
 ###  Practical Experience
@@ -30,7 +30,7 @@ high-performance web applications while continuously improving skills in modern 
 
 Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs, configuration management, and microservice fundamentals.
 
-**Tech Stack:** Java, Spring Boot, Maven,HTML,CSS,Javascript
+**Tech Stack:** Java, Spring Boot, Maven, HTML, CSS,J avascript
 
 **Repository:**
 https://github.com/khushi-66/springboot-learning
@@ -67,7 +67,7 @@ https://github.com/khushi-66/BootStrap-ui-1
 
 ### JavaScript Todo Application
 
-Task management application that allows users to create, manage, and delete tasks dynamically with Localstorage
+Task management application that allows users to create, manage, and delete tasks dynamically with Local Storage
 
 **Tech Stack:** HTML, CSS, JavaScript
 
@@ -84,7 +84,7 @@ https://github.com/khushi-66/javascript-todo-localstorage
 
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS , TailwindCSS
+**Tech Stack:** React JS, JavaScript, HTML, CSS , Tailwind CSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-mega-blog-app/
@@ -97,7 +97,7 @@ https://github.com/khushi-66/react-mega-blog-app
 
 Client-side web application that generates secure passwords based on user-defined parameters.
 
-**Tech Stack:** HTML, CSS, JavaScript , React_JS , TailwindCSS
+**Tech Stack:** HTML, CSS, JavaScript , React JS , Tailwind CSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-password-generator/
@@ -108,9 +108,9 @@ https://github.com/khushi-66/react-password-generator
 ---
 
 ### React Todo Application
-Developed a task management application using React with component-based architecture. The application allows users to create, manage,edit , and delete tasks dynamically and stored in browser's localstorage
+Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit , and delete tasks dynamically and stored in browser's localstorage
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS  ,TaiwindCSS
+**Tech Stack:** React JS, JavaScript, HTML, CSS, Taiwind CSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-todo-localstorage/

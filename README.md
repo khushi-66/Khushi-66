@@ -16,21 +16,23 @@ high-performance web applications while continuously improving skills in modern 
 - Tools & Platforms: Git, GitHub, Eclipse, VS Code, Postman,Swagger
 - Concepts: CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
 
-### Projects & Practical Experience
+###  Practical Experience
 - Developed Java-based web applications using JSP, Servlets, and Spring Boot
 - Implemented CRUD operations with MySQL database integration
 - Worked on backend logic, form handling, and MVC-based application flow
 - Participated in Internal Hackathon 2025, contributing to a Digital Mental Health Solution
   focused on user well-being
+
+
   ## Featured Projects
 
 ### Spring Boot Learning Projects
 
 Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs, configuration management, and microservice fundamentals.
 
-**Tech Stack:** Java, Spring Boot, Maven
+**Tech Stack:** Java, Spring Boot, Maven,HTML,CSS,Javascript
 **Repository:**
-https://github.com/khushi-66/SpringBoot
+https://github.com/khushi-66/springboot-learning
 
 ---
 
@@ -62,11 +64,14 @@ https://github.com/khushi-66/BootStrap-ui-1
 
 ### JavaScript Todo Application
 
-Task management application that allows users to create, manage, and delete tasks dynamically.
+Task management application that allows users to create, manage, and delete tasks dynamically with Localstorage
 
 **Tech Stack:** HTML, CSS, JavaScript
+**Live Demo:**
+https://khushi-66.github.io/javascript-todo-localstorage/
+
 **Repository:**
-https://github.com/khushi-66/js-todoapp
+https://github.com/khushi-66/javascript-todo-localstorage
 
 ---
 
@@ -74,9 +79,12 @@ https://github.com/khushi-66/js-todoapp
 
 Client-side web application that generates secure passwords based on user-defined parameters.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** HTML, CSS, JavaScript,React_JS
+**Live Demo:**
+https://khushi-66.github.io/react-password-generator/
+
 **Repository:**
-https://github.com/khushi-66/password-generator
+https://github.com/khushi-66/react-password-generator
 
 ---
 
@@ -84,9 +92,12 @@ https://github.com/khushi-66/password-generator
 
 Interactive JavaScript application that converts currencies using real-time exchange rates.
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** HTML, CSS, JavaScript,React_JS
+**Live Demo:**
+https://khushi-66.github.io/react-currency-converter/
+
 **Repository:**
-https://github.com/khushi-66/currencyconverter
+https://github.com/khushi-66/react-currency-converter
 
 ---
 

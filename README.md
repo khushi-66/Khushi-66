@@ -30,7 +30,7 @@ high-performance web applications while continuously improving skills in modern 
 
 Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs, configuration management, and microservice fundamentals.
 
-**Tech Stack:** Java, Spring Boot, Maven, HTML, CSS, Javascript
+**Tech Stack:** Java, Spring Boot, Maven, HTML, CSS, JavaScript
 
 **Repository:**
 https://github.com/khushi-66/springboot-learning
@@ -124,7 +124,7 @@ https://github.com/khushi-66/react-todo-localstorage
 
 Interactive JavaScript application that converts currencies using real-time exchange rates.
 
-**Tech Stack:** HTML, CSS, JavaScript , React JS , TailwindCSS
+**Tech Stack:** HTML, CSS, JavaScript , React JS , Tailwind CSS
 
 **Live Demo:**
 https://khushi-66.github.io/react-currency-converter/

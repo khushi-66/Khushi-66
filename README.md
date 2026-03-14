@@ -26,7 +26,7 @@ high-performance web applications while continuously improving skills in modern 
 
   ## Featured Projects
 
-  ### Mega Blog Application (React)
+### Mega Blog Application (React)
 
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 

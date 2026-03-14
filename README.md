@@ -88,6 +88,18 @@ https://github.com/khushi-66/react-password-generator
 
 ---
 
+### React Todo Application
+Developed a task management application using React with component-based architecture. The application allows users to create, manage,edit , and delete tasks dynamically and stored in browser's localstorage
+
+Tech Stack: React JS, JavaScript, HTML, CSS  
+**Live Demo:**
+https://khushi-66.github.io/react-todo-app/
+
+**Repository:**
+https://github.com/khushi-66/react-react-todo-app
+
+---
+
 ### Currency Converter
 
 Interactive JavaScript application that converts currencies using real-time exchange rates.

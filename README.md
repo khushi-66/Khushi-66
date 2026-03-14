@@ -96,7 +96,7 @@ Tech Stack: React JS, JavaScript, HTML, CSS
 https://khushi-66.github.io/react-todo-localstorage/
 
 **Repository:**
-https://github.com/khushi-66/-react-todo-localstorage
+https://github.com/khushi-66/react-todo-localstorage
 
 ---
 

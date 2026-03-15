@@ -1,171 +1,211 @@
 # Khushi | Java Backend Developer
 
-Java Backend Developer focused on building scalable web applications using **Spring Boot** and modern web technologies.
-I enjoy developing RESTful APIs, exploring microservices architecture, and creating responsive frontend interfaces.
+Java Backend Developer focused on building scalable web applications using **Spring Boot and modern web technologies**. I enjoy developing **RESTful APIs, exploring microservices architecture, and creating responsive frontend interfaces.**
 
+---
 
-### Career Focus
-Aspiring Java Web Developer seeking opportunities to contribute to secure, scalable, and
-high-performance web applications while continuously improving skills in modern Java frameworks.
+## Career Focus
 
-### Technical Skills
-- Programming Languages: Core Java, C++
-- Backend Technologies: Spring Boot, JSP, Servlets, MVC Architecture, REST Basics
-- Frontend Technologies: HTML5, CSS3, Bootstrap, JavaScript, React JS
-- Database: MySQL
-- Tools & Platforms: Git, GitHub, Spring Tool Suite (STS), VS Code, Postman, Swagger
-- Concepts: CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
+Aspiring **Java Web Developer** seeking opportunities to contribute to **secure, scalable, and high-performance web applications** while continuously improving skills in modern Java frameworks.
 
-###  Practical Experience
-- Developed Java-based web applications using JSP, Servlets, and Spring Boot
-- Implemented CRUD operations with MySQL database integration
-- Worked on backend logic, form handling, and MVC-based application flow
-- Participated in Internal Hackathon 2025, contributing to a Digital Mental Health Solution
-  focused on user well-being
+---
 
+## Technical Skills
 
- ## Featured Projects
+**Programming Languages**
+Core Java, C++
 
-### Mega Blog Application (React)
+**Backend Technologies**
+Spring Boot, JSP, Servlets, MVC Architecture, REST APIs
+
+**Frontend Technologies**
+HTML5, CSS3, Bootstrap, JavaScript, React JS
+
+**Database**
+MySQL
+
+**Tools & Platforms**
+Git, GitHub, Spring Tool Suite (STS), VS Code, Postman, Swagger
+
+**Concepts**
+CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
+
+---
+
+## Practical Experience
+
+* Developed Java-based web applications using **JSP, Servlets, and Spring Boot**
+* Implemented **CRUD operations with MySQL database integration**
+* Worked on **backend logic, form handling, and MVC-based application flow**
+* Participated in **Internal Hackathon 2025**, contributing to a *Digital Mental Health Solution*
+
+---
+
+# Featured Projects
+
+## Mega Blog Application (React)
 
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS,  Appwrite (Backend as a Service)
+**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS, Appwrite
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/react-mega-blog-app/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/react-mega-blog-app
 
 ---
 
-### React Todo Application
-Developed a task management application using React with component-based architecture. The application allows users to create, manage, edit, and delete tasks dynamically and stores tasks in the browser's Local Storage
+## React Todo Application
+
+Task management application using React that allows users to create, edit, and delete tasks with **Local Storage support**.
 
 **Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/react-todo-localstorage/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/react-todo-localstorage
 
 ---
-### Currency Converter
 
-Interactive JavaScript application that converts currencies using real-time exchange rates.
+## Currency Converter
+
+Interactive application that converts currencies using real-time exchange rates.
 
 **Tech Stack:** HTML, CSS, JavaScript, React JS, Tailwind CSS
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/react-currency-converter/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/react-currency-converter
 
 ---
 
-### Password Generator
+## Password Generator
 
 Client-side web application that generates secure passwords based on user-defined parameters.
 
 **Tech Stack:** HTML, CSS, JavaScript, React JS, Tailwind CSS
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/react-password-generator/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/react-password-generator
 
 ---
-### Spring Boot Learning Projects
 
-Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs, configuration management, and microservice fundamentals.
+## Spring Boot Learning Projects
+
+Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs and configuration management.
 
 **Tech Stack:** Java, Spring Boot, Maven, HTML, CSS, JavaScript
 
-**Repository:**
+Repository
 https://github.com/khushi-66/springboot-learning
 
 ---
 
-### JavaScript Todo Application
+## JavaScript Todo Application
 
-Task management application that allows users to create, manage, and delete tasks dynamically using the browser's Local Storage
+Task management application that allows users to create and delete tasks using **browser Local Storage**.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/javascript-todo-localstorage/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/javascript-todo-localstorage
 
 ---
-### Restaurant Website
+
+## Restaurant Website
 
 Responsive restaurant landing page built using modern HTML and CSS layout techniques.
 
 **Tech Stack:** HTML, CSS
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/restaurant-website-html-css/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/restaurant-website-html-css
 
 ---
 
-### Bootstrap UI Components
+## Bootstrap UI Components
 
 Collection of reusable and responsive UI components developed using Bootstrap.
 
 **Tech Stack:** HTML, CSS, Bootstrap
 
-**Live Demo:**
+Live Demo
 https://khushi-66.github.io/BootStrap-ui-1/
 
-**Repository:**
+Repository
 https://github.com/khushi-66/BootStrap-ui-1
 
 ---
 
-### Hackathons
-- Internal Hackathon 2025 (College Level)
-  - Built a Digital Mental Health Solution using Java, JSP, and web technologies
+## Hackathons
 
-### Certifications & Internships
-- Cyber Security Virtual Internship – Palo Alto Networks (Jul–Sep 2024)
-- Cisco Networking Academy – C++ Essentials
-- HackerRank – SQL (Basic)
-- Microsoft – Get Started with GitHub
+**Internal Hackathon 2025 (College Level)**
+Built a **Digital Mental Health Solution** using Java, JSP, and web technologies.
 
-### Education
-- B.Tech in Computer Science & Engineering (2023–2027) – Pursuing
-- MP Board Class 12 – 96.4% | INSPIRE Scholarship Awarded
-- MP Board Class 10 – 95.4%
+---
 
+## Certifications & Internships
 
+* Cyber Security Virtual Internship – Palo Alto Networks (Jul–Sep 2024)
+* Cisco Networking Academy – C++ Essentials
+* HackerRank – SQL (Basic)
+* Microsoft – Get Started with GitHub
 
-## 📊 GitHub Stats
+---
 
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-66&show_icons=true)
+## Education
 
-## 💻 Top Languages
+**B.Tech in Computer Science & Engineering**
+2023 – 2027 (Pursuing)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-66&layout=compact)
+Class 12 – 96.4% | **INSPIRE Scholarship Awarded**
 
+Class 10 – 95.4%
 
+---
 
-### GitHub Focus
-This GitHub profile contains academic projects, backend practice code, and Java-based web
-applications developed as part of my learning and hands-on experience.
+## GitHub Stats
 
-### Contact
-- Email: sahujii8277@gmail.com
-- GitHub: https://github.com/khushi-66
-- LinkedIn: https://linkedin.com/in/khushi-sahu989718b
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-66\&show_icons=true)
 
+---
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-66\&layout=compact)
+
+---
+
+## GitHub Focus
+
+This GitHub profile contains **academic projects, backend practice code, and Java-based web applications** developed as part of my learning journey and hands-on experience.
+
+---
+
+## Contact
+
+Email
+[sahujii8277@gmail.com](mailto:sahujii8277@gmail.com)
+
+GitHub
+https://github.com/khushi-66
+
+LinkedIn
+https://linkedin.com/in/khushi-sahu989718b
 
 

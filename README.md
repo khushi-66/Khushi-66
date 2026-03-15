@@ -148,9 +148,11 @@ https://github.com/khushi-66/BootStrap-ui-1
 
 
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi-66&show_icons=true)
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-66&show_icons=true)
+
+## 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-66&layout=compact)
 

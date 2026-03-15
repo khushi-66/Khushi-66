@@ -13,7 +13,7 @@ high-performance web applications while continuously improving skills in modern 
 - Backend Technologies: Spring Boot, JSP, Servlets, MVC Architecture, REST Basics
 - Frontend Technologies: HTML5, CSS3, Bootstrap, JavaScript, React JS
 - Database: MySQL
-- Tools & Platforms: Git, GitHub, Eclipse, VS Code, Postman, Swagger
+- Tools & Platforms: Git, GitHub, Spring Tool Suite (STS), VS Code, Postman, Swagger
 - Concepts: CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
 
 ###  Practical Experience

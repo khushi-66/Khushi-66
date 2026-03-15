@@ -146,6 +146,13 @@ https://github.com/khushi-66/BootStrap-ui-1
 - MP Board Class 12 – 96.4% | INSPIRE Scholarship Awarded
 - MP Board Class 10 – 95.4%
 
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi-66&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-66&layout=compact)
+
+
 ### GitHub Focus
 This GitHub profile contains academic projects, backend practice code, and Java-based web
 applications developed as part of my learning and hands-on experience.

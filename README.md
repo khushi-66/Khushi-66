@@ -155,3 +155,8 @@ applications developed as part of my learning and hands-on experience.
 - GitHub: https://github.com/khushi-66
 - LinkedIn: https://linkedin.com/in/khushi-sahu989718b
 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi-66&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-66&layout=compact)

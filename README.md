@@ -30,7 +30,7 @@ high-performance web applications while continuously improving skills in modern 
 
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
+**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS,  Appwrite (Backend as a Service)
 
 **Live Demo:**
 https://khushi-66.github.io/react-mega-blog-app/

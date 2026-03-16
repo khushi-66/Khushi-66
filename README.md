@@ -47,7 +47,7 @@ CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
 
 Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
 
-**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS, Appwrite
+**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS, Appwrite(backend as service)
 
 Live Demo
 https://khushi-66.github.io/react-mega-blog-app/

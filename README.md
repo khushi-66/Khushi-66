@@ -103,34 +103,6 @@ https://github.com/khushi-66/react-todo-localstorage
 
 ---
 
-## Currency Converter
-
-Interactive application that converts currencies using real-time exchange rates.
-
-**Tech Stack:** HTML, CSS, JavaScript, React JS, Tailwind CSS
-
-Live Demo
-https://khushi-66.github.io/react-currency-converter/
-
-Repository
-https://github.com/khushi-66/react-currency-converter
-
----
-
-## Password Generator
-
-Client-side web application that generates secure passwords based on user-defined parameters.
-
-**Tech Stack:** HTML, CSS, JavaScript, React JS, Tailwind CSS
-
-Live Demo
-https://khushi-66.github.io/react-password-generator/
-
-Repository
-https://github.com/khushi-66/react-password-generator
-
----
-
 ## Spring Boot Learning Projects
 
 Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs and configuration management.
@@ -142,45 +114,6 @@ https://github.com/khushi-66/springboot-learning
 
 ---
 
-## JavaScript Todo Application
-
-Task management application that allows users to create and delete tasks using **browser Local Storage**.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-Live Demo
-https://khushi-66.github.io/javascript-todo-localstorage/
-
-Repository
-https://github.com/khushi-66/javascript-todo-localstorage
-
----
-
-## Restaurant Website
-
-Responsive restaurant landing page built using modern HTML and CSS layout techniques.
-
-**Tech Stack:** HTML, CSS
-
-Live Demo
-https://khushi-66.github.io/restaurant-website-html-css/
-
-Repository
-https://github.com/khushi-66/restaurant-website-html-css
-
----
-
-## Bootstrap UI Components
-
-Collection of reusable and responsive UI components developed using Bootstrap.
-
-**Tech Stack:** HTML, CSS, Bootstrap
-
-Live Demo
-https://khushi-66.github.io/BootStrap-ui-1/
-
-Repository
-https://github.com/khushi-66/BootStrap-ui-1
 
 ---
 

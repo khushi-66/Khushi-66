@@ -89,20 +89,6 @@ https://github.com/khushi-66/react-mega-blog-app
 
 ---
 
-## React Todo Application
-
-Task management application using React that allows users to create, edit, and delete tasks with **Local Storage support**.
-
-**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS
-
-Live Demo
-https://khushi-66.github.io/react-todo-localstorage/
-
-Repository
-https://github.com/khushi-66/react-todo-localstorage
-
----
-
 ## Spring Boot Learning Projects
 
 Collection of backend practice projects demonstrating Spring Boot concepts including REST APIs and configuration management.

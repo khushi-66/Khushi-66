@@ -41,7 +41,38 @@ CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
 
 ---
 
-# Featured Projects
+
+## Featured Project
+
+### Finance Management System
+
+ **Live Demo:** https://finance-khushi.vercel.app/  
+ **Repository:** https://github.com/khushi-66/finance-management-system  
+
+A modern and scalable **Finance Management Web Application** built using ReactJS to manage income, expenses, and financial insights with a clean and user-friendly interface.
+
+### Key Features
+- Interactive dashboard for financial tracking  
+- Add, update, and delete transactions (CRUD)  
+- **Bulk delete functionality** for efficient data management  
+- **Role-based transaction handling** (structured data control)  
+- **Transaction analytics with insights** (savings & overspending trends)  
+- Export financial data to CSV  
+- Fully responsive UI (mobile + desktop)  
+
+### Tech Stack
+- **Frontend:** ReactJS, JavaScript (ES6+), HTML, CSS, Bootstrap  
+- **State Management:** React Hooks  
+- **Storage:** LocalStorage  
+- **Deployment:** Vercel  
+
+### Highlights
+- Component-based scalable architecture  
+- Clean UI/UX with performance optimization  
+- Reusable components for maintainability  
+- Real-world financial use case implementation  
+
+---
 
 ## Mega Blog Application (React)
 

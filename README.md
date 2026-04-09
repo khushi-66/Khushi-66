@@ -57,7 +57,8 @@ A modern and scalable **Finance Management Web Application** built using ReactJS
 - **Bulk delete functionality** for efficient data management  
 - **Role-based transaction handling** (structured data control)  
 - **Transaction analytics with insights** (savings & overspending trends)  
-- Export financial data to CSV  
+- Export financial data to CSV
+- Advanced **search, sorting, and filtering** for better data exploration   
 - Fully responsive UI (mobile + desktop)  
 
 ### Tech Stack

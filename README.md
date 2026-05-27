@@ -25,10 +25,10 @@ HTML5, CSS3, Bootstrap, JavaScript, React JS
 MySQL
 
 **Tools & Platforms**
-Git, GitHub, Spring Tool Suite (STS), VS Code, Postman, Swagger
+Git, GitHub, Spring Tool Suite (STS), VS Code, Postman, Swagger,Docker,AWS
 
 **Concepts**
-CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices
+CRUD Operations, MVC Pattern, Backend Validation, Secure Coding Practices,Kafka
 
 ---
 
@@ -75,17 +75,6 @@ A modern and scalable **Finance Management Web Application** built using ReactJS
 
 ---
 
-## Mega Blog Application (React)
-
-Developed a modern blog application using React with component-based architecture. The platform enables users to create, manage, and display blog posts dynamically.
-
-**Tech Stack:** React JS, JavaScript, HTML, CSS, Tailwind CSS, Appwrite(backend as service)
-
-Live Demo
-https://khushi-66.github.io/react-mega-blog-app/
-
-Repository
-https://github.com/khushi-66/react-mega-blog-app
 
 ---
 
